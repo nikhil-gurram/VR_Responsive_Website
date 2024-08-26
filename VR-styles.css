@@ -1,0 +1,334 @@
+#navItem1{
+    color: #323f4b;
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+#navItem2{
+    color: #323f4b;
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+#navItem3{
+    color: #323f4b;
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+#navItem4{
+    color: #323f4b;
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+.vr-logo-img{
+    height: 50px;
+    width: auto;
+}
+
+.banner-section-bg-container{
+    background-image: url("VR/vr-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading{
+    font-family: Roboto;
+    color: white;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.custom-button{
+    width: 130px;
+    height: 45px;
+    color: white;
+    font-size: 18px;
+    background-color: #1a2137;
+    border-width: 0;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+/* vr-features */
+
+.features-section-heading{
+    color: #1f2933;
+    font-size: Roboto;
+    font-weight: 500;
+}
+
+.features-card-container{
+    border-radius: 10px;
+}
+
+.vr-features-card-img{
+    width: 100px;
+}
+
+.vr-features-heading{
+    color: #1f2933;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 28px;
+}
+
+.vr-features-description{
+    color: #7b8794;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+}
+
+.interaction-element{
+   font-weight: bold;
+   font-style: italic;
+   color: #000000;
+}
+
+/* vr-footer */
+
+.vr-footer-section{
+    background-color: #19232d;
+}
+
+.vr-footer-logo-image{
+    height: 50px;
+    margin-bottom: 15px;
+}
+
+.vr-footer-icons{
+    color: #597184;
+    font-size: 30px;
+}
+
+.vr-footer-icon-background{
+    height: 65px;
+    width: 65px;
+    background-color: #202b36;
+    padding-top: 18px;
+    border-radius: 100%;
+    margin: 8px;
+}
+
+.vr-footer-address{
+    color: #597184;
+    font-size: 24px;
+    margin-top: 15px;
+    font-weight: 400;
+}
+
+.vr-footer-contact-us-container{
+    color: #597184;
+}
+
+.vr-footer-section-contact-us{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.vr-footer-contact-details{
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.vr-footer-help-container{
+    color: #597184;
+}
+
+.vr-footer-help-heading{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+hr{
+    background-color: #597184;
+    height: 1px;
+    margin: 20px;
+    width: 80vw;
+}
+
+.hr-lg-devices{
+    background-color: #597184;
+    height: 1px;
+    margin: 20px;
+    width: 60vw;
+}
+
+.vr-footer-help-details{
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.vr-footer-copyrights-details{
+    color: #959ead;
+    font-size: 22px;
+}
+
+/* vr-contact */
+
+.contact-us-section{
+    background-color: #222b36;
+ }
+
+ .contact-us-section-image{
+    width: 100%;
+    margin-bottom: 10px;
+ }
+
+ .contact-us-section-heading{
+    color: #ffffff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+ }
+
+ /* vr-kit */
+
+ .VR-Kit-heading{
+    color: #1f2933;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.vr-kit-card{
+    border-radius: 18px;
+}
+
+.vr-kit-img{
+    height: 150px;
+}
+
+.vr-kit-card-description{
+    color: #323f4b;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/* vr-products */
+
+.vr-products-bg-image{
+    background-size: cover;
+}
+
+.vr-products-heading{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 38px;
+    font-weight: 500;
+}
+
+.vr-products-description{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+.vr-products-custom-button{
+    height: 45px;
+    width: 120px;
+    border-radius: 5px;
+    border-color: white;
+    border-width: 2px;
+    color: white;
+    background-color:transparent;
+}
+
+.vr-product-1{
+    background-image: url("VR/VR-Products/vr-products-headset-img.png");
+    background-size: cover;
+    width: auto;
+    height: 100vh;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.vr-product-2{
+    background-image: url("VR/VR-Products/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.vr-products-text-container{
+    padding: 20px;
+}
+
+.vr-products-view-all-button{
+    width: 130px;
+    height: 45px;
+    border-radius: 8px;
+    border-width: 0px;
+    background-color: #1754a1;
+    color: white;
+}
+
+/* vr-optics */
+
+.optics-section-heading{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #1f2933;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.optics-section-description{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #7b8794;
+    font-size: 18px;
+}
+
+.optics-custom-button{
+    height: 45px;
+    width: 120px;
+    background-color: #1a2137;
+    color: white;
+    border-width: 0;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-right: 8px;
+}
+
+/* vr-blogs */
+
+.vr-blogs-heading{
+    color: #1f2933;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.vr-blogs-card-text{
+    padding: 10px;
+}
+
+.vr-blogs-card-heading{
+    color: #959ead;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.vr-blogs-card-description{
+    color: #323f4b;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 8px;
+}
+
+.vr-blogs-card-read-more{
+    color: #1754a1;
+    font-weight: 500;
+}
+
+.vr-blogs-card-button{
+    height: 45px;
+    width: 120px;
+    border-radius: 5px;
+    border-width: 0;
+    background-color: #1754a1;
+    color: white;
+}
